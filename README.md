@@ -1,15 +1,7 @@
 <div align="center">
 
 <br />
-
-```
-███████╗ ██████╗ ███╗   ██╗ █████╗ ██╗
-╚══███╔╝██╔═══██╗████╗  ██║██╔══██╗██║
-  ███╔╝ ██║   ██║██╔██╗ ██║███████║██║
- ███╔╝  ██║   ██║██║╚██╗██║██╔══██║██║
-███████╗╚██████╔╝██║ ╚████║██║  ██║███████╗
-╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-```
+<img width="3168" height="1344" alt="Gemini_Generated_Image_zh8f0izh8f0izh8f" src="https://github.com/user-attachments/assets/631aceac-9720-4abb-855c-4d572d56d388" />
 
 **Your focus atmosphere. Native, offline, quiet.**
 
@@ -185,6 +177,7 @@ python scripts/build_installer.py        # Windows only — produces dist/*-setu
 ```
 
 <br />
+
 
 ## Profiles
 
